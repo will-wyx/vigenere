@@ -22,7 +22,6 @@
 
 加密和解密的参数请使用大写字母
 
-```
 ```shell
 node ./encrypt.js [key] [plaintext]  --加密
 node ./decrypt.js [key] [ciphertext] --解密
